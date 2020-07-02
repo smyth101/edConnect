@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "5ebd1094da195e4428f6477b"
+  },
+  "name": "Ciara Carter",
+  "uid": "CVPX4Dqh",
+  "message": "I have a few pictures from the trip to the burren, If you would like me to send them to you I can.",
+  "conversationId": "5ebd107889680000c7004cca",
+  "timestamp": 1589448852,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd10a7da195e4428f6477c"
+  },
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "message": "that would be great Ciara. Please send them on and I can share them with the rest of the class.",
+  "conversationId": "5ebd107889680000c7004cca",
+  "timestamp": 1589448872,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd10b689680000c7004ccc"
+  },
+  "conversationId": "5ebd107889680000c7004cca",
+  "message": "download (1).jpg",
+  "name": "Ciara Carter",
+  "uid": "CVPX4Dqh",
+  "timestamp": 1589448886,
+  "type": "img"
+},{
+  "_id": {
+    "$oid": "5ebd10bc89680000c7004ccd"
+  },
+  "conversationId": "5ebd107889680000c7004cca",
+  "message": "download.jpg",
+  "name": "Ciara Carter",
+  "uid": "CVPX4Dqh",
+  "timestamp": 1589448892,
+  "type": "img"
+},{
+  "_id": {
+    "$oid": "5ebd10dfda195e4428f6477d"
+  },
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "message": "perfect thanks.",
+  "conversationId": "5ebd107889680000c7004cca",
+  "timestamp": 1589448928,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd114289680000c7004cd1"
+  },
+  "conversationId": "5ebd112189680000c7004cd0",
+  "message": "igneous_rocks.pdf",
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "timestamp": 1589449026,
+  "type": "file"
+},{
+  "_id": {
+    "$oid": "5ebd114bda195e4428f6477e"
+  },
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "message": "This is the notes I was talking about in class on Thursday, please make sure to read through it before our class on Tuesday.",
+  "conversationId": "5ebd112189680000c7004cd0",
+  "timestamp": 1589449035,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd115589680000c7004cd2"
+  },
+  "conversationId": "5ebd112189680000c7004cd0",
+  "message": "download (1).jpg",
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "timestamp": 1589449045,
+  "type": "img"
+},{
+  "_id": {
+    "$oid": "5ebd115b89680000c7004cd3"
+  },
+  "conversationId": "5ebd112189680000c7004cd0",
+  "message": "download.jpg",
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "timestamp": 1589449051,
+  "type": "img"
+},{
+  "_id": {
+    "$oid": "5ebd116cda195e4428f6477f"
+  },
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "message": "Also here are some pictures from our trip to the Burren that Ciara kindly shared.",
+  "conversationId": "5ebd112189680000c7004cd0",
+  "timestamp": 1589449068,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd1233da195e4428f64780"
+  },
+  "name": "Bill Carter",
+  "uid": "psXXTIMt",
+  "message": "Hi Timmy, I am just double checking that Ciara is supposed to be off from school for the remainder of the day when she returns from the trip to the Burren?",
+  "conversationId": "5ebd122a89680000c7004cd5",
+  "timestamp": 1589449267,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd1262da195e4428f64781"
+  },
+  "name": "timmy tommy",
+  "uid": "d7wLlX3D",
+  "message": "Yes the entire trip is done for the day when they get back to the school, which should be around around half 2.",
+  "conversationId": "5ebd122a89680000c7004cd5",
+  "timestamp": 1589449314,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd126eda195e4428f64782"
+  },
+  "name": "Bill Carter",
+  "uid": "psXXTIMt",
+  "message": "thats grand, thanks",
+  "conversationId": "5ebd122a89680000c7004cd5",
+  "timestamp": 1589449327,
+  "type": "text"
+},{
+  "_id": {
+    "$oid": "5ebd1440da195e4428f64783"
+  },
+  "name": "sam son",
+  "uid": "hjD3Yxa8",
+  "message": "Would you be free to supervise a 1st year astro tournament with me from period 4 to end of lunch next Friday?",
+  "conversationId": "5ebd140589680000c7004cd7",
+  "timestamp": 1589449792,
+  "type": "text"
+}]

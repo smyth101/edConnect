@@ -1,0 +1,12 @@
+{
+    "name": "root/src",
+    "authors": [
+        {
+            "name": "daniel smyth",
+            "email": "dandman1234@gmail.com"
+        }
+    ],
+    "require": {
+	"sendgrid/sendgrid": "~7"
+    }
+}
